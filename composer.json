@@ -1,0 +1,14 @@
+{
+  "name": "hoppinger/arbo",
+  "description": "Drupal module that provides a tree widget for Taxonomy Term entity reference fields",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/hoppinger/arbo",
+  "authors": [
+    {
+      "name": "Rolf van de Krol",
+      "role": "Maintainer"
+    }
+  ]
+}
